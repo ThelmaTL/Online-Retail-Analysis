@@ -143,13 +143,10 @@ These enhancements would turn the project into a more advanced analytics solutio
 
 ### 🛠 How to Run the Project
 
-1. Clone the repository:
-git clone https://github.com/yourusername/Clicks-to-Carts-Online-Retail-Insights.git
+1. Clone the repository
 
 2. Install required libraries:
 pip install pandas numpy matplotlib seaborn
 
 3. Open the notebook and run all cells.
 
-
-**“Yes – personalize it for me”** 😊
